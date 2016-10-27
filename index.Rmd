@@ -55,10 +55,16 @@ github:
 --- &carousel
 ## Look ma! Slides within slides!
 
-*** {class: active, iframe: "./html/barline.html"}
-barline
+*** {class: active, img: "http://goo.gl/kcRF4e"}
+Bruce Lowell http://bruce.kus-numa.net/
 
-*** {iframe: "./html/bar.html"}
+*** {img: "http://goo.gl/GwVFOh"}
 Obama Wins! http://southpark.wikia.com
+
+*** {img: "http://goo.gl/5LfD62"}
+Benjamin Rivers, Toronto Draws Tintin
+
+*** {img: "http://goo.gl/yJFbG4", alt=""}
+Something, Something, Something, Dark Side http://familyguy.wikia.com/
 
 ---
