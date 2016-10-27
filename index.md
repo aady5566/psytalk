@@ -50,7 +50,7 @@ github:
 
 --- &vcenter
 ## Tauntauns in popular culture
-![Sorry, the link must have moved.](https://goo.gl/yJFbG4 "http://familyguy.wikia.com/")
+![Sorry, the link must have moved.]("https://raw.githubusercontent.com/aady5566/aady5566.github.io/master/pic/korea/train.jpg")
 
 --- &carousel
 ## Look ma! Slides within slides!
@@ -59,6 +59,6 @@ github:
 barline
 
 *** {iframe: "./html/bar.html"}
-Obama Wins! https://southpark.wikia.com
+Obama Wins! 
 
 ---
