@@ -2,7 +2,7 @@
 title       : 測試
 subtitle    : test
 author      : yd
-job         : Data Sccc
+job         : Data Scientist
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
