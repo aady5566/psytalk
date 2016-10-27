@@ -50,7 +50,10 @@ github:
 
 --- &vcenter
 ## Tauntauns in popular culture
-![Sorry, the link must have moved.]("https://raw.githubusercontent.com/aady5566/aady5566.github.io/master/pic/korea/train.jpg")
+
+
+<img src="https://raw.githubusercontent.com/aady5566/aady5566.github.io/master/pic/korea/train.jpg" height="500px" width="500px">
+
 
 --- &carousel
 ## Look ma! Slides within slides!
