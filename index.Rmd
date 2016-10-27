@@ -50,21 +50,15 @@ github:
 
 --- &vcenter
 ## Tauntauns in popular culture
-![Sorry, the link must have moved.](http://goo.gl/yJFbG4 "http://familyguy.wikia.com/")
+![Sorry, the link must have moved.](https://goo.gl/yJFbG4 "http://familyguy.wikia.com/")
 
 --- &carousel
 ## Look ma! Slides within slides!
 
-*** {class: active, img: "http://goo.gl/kcRF4e"}
-Bruce Lowell http://bruce.kus-numa.net/
+*** {class: active, iframe: "./html/barline.html"}
+barline
 
-*** {img: "http://goo.gl/GwVFOh"}
-Obama Wins! http://southpark.wikia.com
-
-*** {img: "http://goo.gl/5LfD62"}
-Benjamin Rivers, Toronto Draws Tintin
-
-*** {img: "http://goo.gl/yJFbG4", alt=""}
-Something, Something, Something, Dark Side http://familyguy.wikia.com/
+*** {iframe: "./html/bar.html"}
+Obama Wins! https://southpark.wikia.com
 
 ---
