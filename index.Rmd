@@ -5,7 +5,7 @@ author      : yd
 job         : Data Scientist
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow      # 
+hitheme     : school_book      # 
 widgets     : [bootstrap]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
@@ -64,10 +64,26 @@ barline
 *** {iframe: "./html/bar.html"}
 bar
 
-*** {iframe: "./html/heatmap.html"}
+*** {iframe: "./html/mrt.html"}
 heatmap
 
 *** {iframe: "./html/yd_bubblecloud/index.html"}
 bubblecloud
 
+*** {iframe: "./html/lda_gibbs_yd/index.html"}
+LDA
+
+
+
+
 ---
+
+## 寫網站？！
+
+
+<a href="https://ydhuang.shinyapps.io/importApp/">Shiny</a>
+
+--- .class1 #id1 bg:yellow
+
+ifj
+
