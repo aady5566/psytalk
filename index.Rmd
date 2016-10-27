@@ -37,15 +37,15 @@ github:
 ---
 
 ## iframe ip
-<div style="height:2000px;overflow:scroll">
-  <iframe src="aady5566.github.io" height=1500px></iframe>  
+<div style="height:1500px;overflow:scroll">
+  <iframe src="http://aady5566.github.io/" height=1500px></iframe>  
 </div>
 
 ---
 
 ## iframe ip
-<div style="height:2000px;overflow:scroll">
-  <iframe src="aady5566.github.io/timeline/"></iframe>  
+<div style="overflow:scroll" class="iframe-rwd">
+  <iframe src="http://aady5566.github.io/timeline/"></iframe>  
 </div>
 
 
