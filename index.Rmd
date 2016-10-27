@@ -62,6 +62,12 @@ github:
 barline
 
 *** {iframe: "./html/bar.html"}
-Obama Wins! 
+bar
+
+*** {iframe: "./html/heatmap.html"}
+heatmap
+
+*** {iframe: "./html/yd_bubblecloud/index.html"}
+bubblecloud
 
 ---
