@@ -6,7 +6,7 @@ job         : Data Scientist
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
-widgets     : []            # {mathjax, quiz, bootstrap}
+widgets     : [bootstrap]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 github: 
@@ -48,6 +48,17 @@ github:
   <iframe src="https://aady5566.github.io/timeline/"></iframe>  
 </div>
 
+--- &vcenter
+## Tauntauns in popular culture
+![Sorry, the link must have moved.](http://goo.gl/yJFbG4 "http://familyguy.wikia.com/")
 
+--- &carousel
+## Look ma! Slides within slides!
 
+*** {class: active, iframe: "./html/barline.html"}
+barline
 
+*** {iframe: "./html/bar.html"}
+Obama Wins! http://southpark.wikia.com
+
+---
