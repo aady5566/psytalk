@@ -1,8 +1,8 @@
 ---
-title       : 測試
-subtitle    : test
-author      : yd
-job         : Data Scientist
+title       : PsyTalk at Random
+subtitle    : 2016.11.18
+author      : YD
+job         : 打雜小弟
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : school_book      # 
@@ -38,21 +38,21 @@ github:
 
 ## iframe ip
 <div style="height:1500px;overflow:scroll" class="iframe-rwd">
-  <iframe src="https://aady5566.github.io/" height=1500px></iframe>  
+  <iframe src="http://aady5566.github.io/" height=1500px></iframe>  
 </div>
 
 ---
 
 ## iframe change
 <div style="overflow:scroll">
-  <iframe src="https://aady5566.github.io/timeline/"></iframe>  
+  <iframe src="http://aady5566.github.io/timeline/"></iframe>  
 </div>
 
 --- &vcenter
 ## Tauntauns in popular culture
 
 
-<img src="https://raw.githubusercontent.com/aady5566/aady5566.github.io/master/pic/korea/train.jpg" height="500px" width="500px">
+<img src="http://raw.githubusercontent.com/aady5566/aady5566.github.io/master/pic/korea/train.jpg" height="500px" width="500px">
 
 
 --- &carousel
@@ -81,7 +81,7 @@ LDA
 ## 寫網站？！
 
 
-<a href="https://ydhuang.shinyapps.io/importApp/">Shiny</a>
+<a href="http://ydhuang.shinyapps.io/importApp/">Shiny</a>
 
 --- .class1 #id1 bg:yellow
 
