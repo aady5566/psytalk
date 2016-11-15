@@ -26,7 +26,7 @@ github:
 
 ---
 
-## 大學後的時間軸
+## 大學後時間軸
 
 <div style="overflow:scroll">
   <iframe src="http://aady5566.github.io/timeline/"></iframe>  
@@ -34,23 +34,26 @@ github:
 
 ---
 
+## 大學實習
+
+金百利市場調查
+
+<img src="./asset/img/kimberlyclark.png" height="500px" width="500px">
+
+---
+
+## 研究所實習：
+
+---
+
+## 現在工作的內容
+
+
+---
+
 ## What's data scientist?
 
 <img src="./asset/img/mds.png" height="500px" width="500px">
-
----
-
-## 工作內容
-
-文字雲，pieCHART
-
----
-
-## TO 休 OR NOT TO 修？
-
-* 心統在教什麼?
-* 為何要念統計? 以後又用不到
-* 可以換個老師嗎?我聽不懂
 
 ---
 
