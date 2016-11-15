@@ -2,7 +2,7 @@
 title       : PsyTalk at Random
 subtitle    : 2016.11.18
 author      : YD
-job         : 打雜小弟
+job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : school_book      # 
@@ -14,13 +14,58 @@ github:
   repo: psytalk
 ---
 
-## Read-And-Delete
+## Intro
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
+- B98 心理學士
+- R02 心理所認知計量組
+- 大學實習：Kimberly Clark (市場調查)
+- 研究所實習：商業發展研究院 (語意分析)
+- 現職：雲圖科學計算 (數據分析與視覺化)
 
---- .class #id 
+
+
+---
+
+## 大學後的時間軸
+
+<div style="overflow:scroll">
+  <iframe src="http://aady5566.github.io/timeline/"></iframe>  
+</div>
+
+---
+
+## What's data scientist?
+
+<img src="./asset/img/mds.png" height="500px" width="500px">
+
+---
+
+## 工作內容
+
+文字雲，pieCHART
+
+---
+
+## TO 休 OR NOT TO 修？
+
+* 心統在教什麼?
+* 為何要念統計? 以後又用不到
+* 可以換個老師嗎?我聽不懂
+
+---
+
+## 氣宗劍宗
+
+氣宗派：在校培養，理論理解、人際、態度、價值觀的培養
+劍宗派：社會實戰，技能、技術提升
+---
+
+## 你唸心理的..
+
+有沒有同理心?
+帶點同理心
+
+---
 
 ## iframe 1
 <div class="iframe-rwd">
