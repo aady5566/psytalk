@@ -65,7 +65,7 @@ github:
 
 ## Internship @ CDRI - 3
 
-<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/socialnetwork.png" height=800 width=800>
+<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/socialnetwork.png" height=700 width=700>
 
 --- &carousel
 ## Work @ CirrusDI
@@ -103,7 +103,7 @@ Shiny
 
 ---
 
-## 學校 WTF
+## 您有以下徵兆了嗎
 
 ### 讀心統幹嘛? 以後用不到
 
@@ -112,6 +112,8 @@ Shiny
 ### 學校教的根本沒用，只剩下文憑?
 
 ### 我選錯系了,我好迷惘,我魯蛇
+
+(WTF...)
 
 --- &vcenter
 
