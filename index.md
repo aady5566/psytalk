@@ -36,12 +36,12 @@ github:
 
 ### 實習： 
 
-&nbsp;&nbsp; Kimberly Clark (市場調查)  
-&nbsp;&nbsp; 商業發展研究院 (語意分析)  
+### &nbsp;&nbsp; Kimberly Clark (市場調查)  
+### &nbsp;&nbsp; 商業發展研究院 (語意分析)  
   
 ### 現職：  
 
-&nbsp;&nbsp; 雲圖科學計算 (數據分析與視覺化)
+### &nbsp;&nbsp; 雲圖科學計算 (數據分析與視覺化)
 
 --- &vcenter
 
@@ -93,7 +93,7 @@ Shiny
 
 ## Tools & Duty
 
-<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/cirrusdiwork.png" height=750 width=750>
+<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/cirrusdiwork.png" height=600  width=600>
 
 --- &vcenter
 
@@ -105,13 +105,13 @@ Shiny
 
 ## 學校 WTF
 
-讀心統幹嘛? 以後用不到
+### 讀心統幹嘛? 以後用不到
 
-老師教得爛我怎辦?
+### 老師教得爛我怎辦?
 
-學校教的根本沒用，只剩下文憑?
+### 學校教的根本沒用，只剩下文憑?
 
-我選錯系了,我好迷惘,我魯蛇
+### 我選錯系了,我好迷惘,我魯蛇
 
 --- &vcenter
 
