@@ -105,10 +105,7 @@ Shiny
 
 ## 讀書沒屁用?
 
-$$latex
-f(x;\mu,\sigma^2) = \frac{1}{\sigma\sqrt{2\pi}} 
-e^{ -\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2 }
-$$
+
 
 
 
@@ -116,7 +113,7 @@ $$
 
 ## 人生就像寶可夢
 
-<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/dragon.jpg" height=400 width=400>
+<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/dragon.jpg" height=350 width=350>
 
 
 
