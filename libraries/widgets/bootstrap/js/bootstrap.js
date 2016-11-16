@@ -1710,12 +1710,12 @@
       if (!data) $this.data('carousel', (data = new Carousel(this, options)))
       if (typeof option == 'number') data.to(option)
       else if (action) data[action]()
-      // else if (options.interval) data.cycle()
+      else if (options.interval) data.cycle()
     })
   }
 
   $.fn.carousel.defaults = {
-    interval: 5000
+    interval: 1000000
   , pause: 'hover'
   }
 
