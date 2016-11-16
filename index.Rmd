@@ -49,19 +49,19 @@ github:
 
 <img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/kimberlyclark.png" height=800 width=800>
 
----
+--- &vcenter
 
 ## Internship @ CDRI - 1
 
 <img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/mode.png" height=800 width=800>
 
----
+--- &vcenter
 
 ## Internship @ CDRI - 2
 
 <img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/accum.png" height=800 width=800>
 
----
+--- &vcenter
 
 ## Internship @ CDRI - 3
 
@@ -93,7 +93,7 @@ Shiny
 
 ## Tools & Duty
 
-<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/cirrusdiwork.png" height=800 width=800>
+<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/cirrusdiwork.png" height=750 width=750>
 
 --- &vcenter
 
@@ -103,49 +103,37 @@ Shiny
 
 ---
 
-## 讀書沒屁用?
+## 學校 WTF
 
+讀心統幹嘛? 以後用不到
 
+老師教得爛我怎辦?
 
+學校教的根本沒用，只剩下文憑?
 
+我選錯系了,我好迷惘,我魯蛇
 
 --- &vcenter
 
 ## 人生就像寶可夢
 
-<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/dragon.jpg" height=350 width=350>
+<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/dragon.jpg" height=390 width=390>
 
-
-
-
-[//]:(
----
-## iframe 
-<div class="iframe-rwd">
-  <iframe src="./html/bar.html"></iframe>    
-</div>
-)
-
-[//]:(
----
-## iframe change
-<div style="overflow:scroll">
-  <iframe src="http://aady5566.github.io/timeline/"></iframe>  
-</div>
-)
-[//]:(
---- .class1 #id1 bg:yellow
-
-ifj
-)
-[//]:(
 ---
 
-## Work @ CirrusDI - 2
+## 資源分享
+
+[YD_Rlab](https://www.dropbox.com/sh/5t11v18rlwfvk5r/AAB7YzEUMcUFQhsea8sSiaVma?dl=0)   
+
+[用 latex 編寫碩士論文 (APA format) ](https://www.dropbox.com/sh/euyj6azmk4t0vsw/AABeAULJ0RBhwYi_8PfyaHwpa?dl=0)
+
+[YD Blog](http://aady5566.github.io/)
+
+--- &vcenter
+
+[Thanks & QA](https://docs.google.com/presentation/d/14UabUejLo--PFIomkeAWMHkmOWVqMgeLETlli98dOos/edit#slide=id.g18fd4d00d1_0_0)
 
 
-<a href="http://ydhuang.shinyapps.io/importApp/">Shiny</a>
 
-)
 
 
