@@ -16,17 +16,15 @@ github:
 
 ## Intro
 
-- B98 心理學士
-- R02 心理所認知計量組
-- 大學實習：Kimberly Clark (市場調查)
-- 研究所實習：商業發展研究院 (語意分析)
-- 現職：雲圖科學計算 (數據分析與視覺化)
+### http://aady5566.bitbucket.org/
 
+### B98 心理學士  
 
+### R02 心理所認知計量組
 
 ---
 
-## 大學後時間軸
+## More About Me
 
 <div style="overflow:scroll">
   <iframe src="http://aady5566.github.io/timeline/"></iframe>  
@@ -34,77 +32,43 @@ github:
 
 ---
 
-## 大學實習
+## 業界相關經驗
 
-金百利市場調查
+### 實習： 
 
-<img src="./asset/img/kimberlyclark.png" height="500px" width="500px">
+&nbsp;&nbsp; Kimberly Clark (市場調查)  
+&nbsp;&nbsp; 商業發展研究院 (語意分析)  
+  
+### 現職：  
 
----
-
-## 研究所實習：
-
----
-
-## 現在工作的內容
-
-
----
-
-## What's data scientist?
-
-<img src="./asset/img/mds.png" height="500px" width="500px">
-
----
-
-## 氣宗劍宗
-
-氣宗派：在校培養，理論理解、人際、態度、價值觀的培養
-劍宗派：社會實戰，技能、技術提升
----
-
-## 你唸心理的..
-
-有沒有同理心?
-帶點同理心
-
----
-
-## iframe 1
-<div class="iframe-rwd">
-  <iframe src="./html/bar.html"></iframe>    
-</div>
-
----
-
-## iframe 2
-<div class="iframe-rwd">
-  <iframe src="./html/barline.html"></iframe>    
-</div>
-
----
-
-## iframe ip
-<div style="height:1500px;overflow:scroll" class="iframe-rwd">
-  <iframe src="http://aady5566.github.io/" height=1500px></iframe>  
-</div>
-
----
-
-## iframe change
-<div style="overflow:scroll">
-  <iframe src="http://aady5566.github.io/timeline/"></iframe>  
-</div>
+&nbsp;&nbsp; 雲圖科學計算 (數據分析與視覺化)
 
 --- &vcenter
-## Tauntauns in popular culture
 
+## Internship @ Kimberly Clark
 
-<img src="http://raw.githubusercontent.com/aady5566/aady5566.github.io/master/pic/korea/train.jpg" height="500px" width="500px">
+<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/kimberlyclark.png" height=800 width=800>
 
+---
+
+## Internship @ CDRI - 1
+
+<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/mode.png" height=800 width=800>
+
+---
+
+## Internship @ CDRI - 2
+
+<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/accum.png" height=800 width=800>
+
+---
+
+## Internship @ CDRI - 3
+
+<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/socialnetwork.png" height=800 width=800>
 
 --- &carousel
-## Look ma! Slides within slides!
+## Work @ CirrusDI
 
 *** {class: active, iframe: "./html/barline.html"}
 barline
@@ -121,17 +85,70 @@ bubblecloud
 *** {iframe: "./html/lda_gibbs_yd/index.html"}
 LDA
 
+*** {iframe: "https://ydhuang.shinyapps.io/importApp/"}
+Shiny
 
 
+--- &vcenter
+
+## Tools & Duty
+
+<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/cirrusdiwork.png" height=800 width=800>
+
+--- &vcenter
+
+## What's data scientist?
+
+<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/mds.png" height=400 width=400>
 
 ---
 
-## 寫網站？！
+## 讀書沒屁用?
+
+$$latex
+f(x;\mu,\sigma^2) = \frac{1}{\sigma\sqrt{2\pi}} 
+e^{ -\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2 }
+$$
+
+
+
+--- &vcenter
+
+## 人生就像寶可夢
+
+<img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/dragon.jpg" height=400 width=400>
+
+
+
+
+[//]:(
+---
+## iframe 
+<div class="iframe-rwd">
+  <iframe src="./html/bar.html"></iframe>    
+</div>
+)
+
+[//]:(
+---
+## iframe change
+<div style="overflow:scroll">
+  <iframe src="http://aady5566.github.io/timeline/"></iframe>  
+</div>
+)
+[//]:(
+--- .class1 #id1 bg:yellow
+
+ifj
+)
+[//]:(
+---
+
+## Work @ CirrusDI - 2
 
 
 <a href="http://ydhuang.shinyapps.io/importApp/">Shiny</a>
 
---- .class1 #id1 bg:yellow
+)
 
-ifj
 
