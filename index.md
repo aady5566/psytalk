@@ -1,7 +1,7 @@
 ---
 title       : PsyTalk at Random
 subtitle    : 2016.11.18
-author      : YD
+author      : YD Huang
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
@@ -12,6 +12,9 @@ knit        : slidify::knit2slides
 github: 
   user: aady5566
   repo: psytalk
+
+
+
 ---
 
 ## Intro
@@ -117,23 +120,48 @@ Shiny
 
 --- &vcenter
 
-## 人生就像寶可夢
+## IV? Dust? Candy?
 
 <img src="https://raw.githubusercontent.com/aady5566/psytalk/master/assets/img/dragon.jpg" height=390 width=390>
 
+--- &twocol
+
+*** =left
+
+## R 相關資源  
+
+* [R 語言翻轉教室](http://datascienceandr.org/)
+
+* [An Intro to Statistical Learning with Application in R](http://www-bcf.usc.edu/~gareth/ISL/)
+
+* [Standford Stat learning](StatLearning-SP Statistical Learning)
+
+* [手把手_R_實務分析](http://www.slideshare.net/tw_dsconf/r-64232974)
+
+*** =right
+
+## Ref  
+
+* [Slidyfy](http://slidify.org/)
+
+* [Shiny](http://shiny.rstudio.com/)
+
+* [rCharts](http://ramnathv.github.io/rCharts/)
+
+* [Leaflet](https://rstudio.github.io/leaflet/)
+
 ---
 
-## 資源分享
+## YD資源分享
 
-[YD_Rlab](https://www.dropbox.com/sh/5t11v18rlwfvk5r/AAB7YzEUMcUFQhsea8sSiaVma?dl=0)   
-
-[用 latex 編寫碩士論文 (APA format) ](https://www.dropbox.com/sh/euyj6azmk4t0vsw/AABeAULJ0RBhwYi_8PfyaHwpa?dl=0)
-
-[YD Blog](http://aady5566.github.io/)
+* [YD_Rlab](https://www.dropbox.com/sh/5t11v18rlwfvk5r/AAB7YzEUMcUFQhsea8sSiaVma?dl=0)   
+* [用 latex 編寫碩士論文 (APA format) ](https://www.dropbox.com/sh/euyj6azmk4t0vsw/AABeAULJ0RBhwYi_8PfyaHwpa?dl=0)
+* [YD Blog](http://aady5566.github.io/)
 
 --- &vcenter
+## 
 
-[Thanks & QA](https://docs.google.com/presentation/d/14UabUejLo--PFIomkeAWMHkmOWVqMgeLETlli98dOos/edit#slide=id.g18fd4d00d1_0_0)
+[QA](https://docs.google.com/presentation/d/14UabUejLo--PFIomkeAWMHkmOWVqMgeLETlli98dOos/edit#slide=id.g18fd4d00d1_0_0)
 
 
 
